@@ -14,6 +14,7 @@ Geralmente o professor aborda determinado assunto, heap por exemplo, faz um estu
 | -------------------------- | ------------------- |
 |     Insertion-Sort com C   |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/insertion_sort.c) |
 |  Insertion-Sort com Python |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/insertion_sort.py) |
+|       Bubble-Sort          |  [acesse]() |
 |         Heap               |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/heap.py) |
 |  Tabela-hash com vetor     |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/tabela_hash_vetor.c) |
 |  Tabela-hash com lista encadeada |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/tabela_hash_lista.c) |
