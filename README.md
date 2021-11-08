@@ -18,7 +18,7 @@ Geralmente o professor aborda determinado assunto, heap por exemplo, faz um estu
 |         Heap - python      |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/heap.py) |
 |  Tabela-hash com vetor - C |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/tabela_hash_vetor.c) |
 |Tabela-hash com lista encadeada - C |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/tabela_hash_lista.c) |
-|  Algoritmos de busca - C   | [acesse] () |
+|  Algoritmos de busca - C   | [acesse](https://github.com/pauloh-alc/EDA/blob/main/algoritmos_de_busca.c) |
 
 ## Autor
 Paulo Henrique Diniz de Lima Alencar.
