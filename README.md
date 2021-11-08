@@ -12,12 +12,14 @@ Geralmente o professor aborda determinado assunto, heap por exemplo, faz um estu
 
 | Algoritmo                  |  Link de acesso     |
 | -------------------------- | ------------------- |
-|     Insertion-Sort com C   |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/insertion_sort.c) |
-|  Insertion-Sort com Python |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/insertion_sort.py) |
-|       Bubble-Sort          |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/bubble_sort.py) |
-|         Heap               |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/heap.py) |
-|  Tabela-hash com vetor     |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/tabela_hash_vetor.c) |
-|  Tabela-hash com lista encadeada |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/tabela_hash_lista.c) |
+|     Insertion-Sort - C     |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/insertion_sort.c) |
+|  Insertion-Sort - python   |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/insertion_sort.py) |
+|     Bubble-Sort - python   |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/bubble_sort.py) |
+|         Heap - python      |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/heap.py) |
+|  Tabela-hash com vetor - C |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/tabela_hash_vetor.c) |
+|Tabela-hash com lista encadeada - C |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/tabela_hash_lista.c) |
+|  Algoritmos de busca - C   | [acesse] () |
+
 ## Autor
 Paulo Henrique Diniz de Lima Alencar.
 
