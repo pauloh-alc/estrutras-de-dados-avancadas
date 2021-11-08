@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
-#define size(array) (sizeof(array)/sizeof(arra[0]))
+#define size(array) (sizeof(array)/sizeof(array[0]))
 #define TAM_ARRAY 15
 
 
