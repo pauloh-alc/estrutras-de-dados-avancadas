@@ -19,7 +19,7 @@ Geralmente o professor aborda determinado assunto, heap por exemplo, faz um estu
 |  Tabela-hash com vetor - C |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/tabela_hash_vetor.c) |
 |Tabela-hash com lista encadeada - C |  [acesse](https://github.com/pauloh-alc/EDA/blob/main/tabela_hash_lista.c) |
 |  Algoritmos de busca - C   | [acesse](https://github.com/pauloh-alc/EDA/blob/main/algoritmos_de_busca.c) |
-|  Binary-Search - python    | [acesse](https://github.com/pauloh-alc/EDA/blob/main/binary-search.py) |
+|  Binary-Search - python    | [acesse](https://github.com/pauloh-alc/EDA/blob/main/binary_search.py) |
 
 ## Autor
 Paulo Henrique Diniz de Lima Alencar.
